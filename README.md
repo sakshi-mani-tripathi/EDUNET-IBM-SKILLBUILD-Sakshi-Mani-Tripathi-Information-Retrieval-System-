@@ -23,7 +23,7 @@ Built with **Python, Streamlit, LangChain, FAISS, and HuggingFace models**, it p
 ## Installation
 1. Clone the repo:  
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/sakshi-mani-tripathi/EDUNET-IBM-SKILLBUILD-Sakshi-Mani-Tripathi-Information-Retrieval-System-.git>
 Go to the project folder:
 
 cd Information-Retrieval-System
