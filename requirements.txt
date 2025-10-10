@@ -1,7 +1,16 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+transformers
+torch
+faiss-cpu
+PyPDF2
 python-dotenv
 google-generativeai
-langchain
-PyPDF2
-faiss-cpu
-streamlit
--e .
+scikit-learn
+numpy
+pandas
